@@ -102,6 +102,8 @@ This folder already includes `.gitignore` (ignores each machine's `ptz-config.js
 | `pocket-ptz-obs.py` | OBS native-hotkey script |
 | `COMPANION.md` | Bitfocus Companion / Stream Deck guide |
 
+<img width="890" height="464" alt="螢幕擷取畫面 2026-06-26 130740" src="https://github.com/user-attachments/assets/f09175b9-d679-4926-a7c5-a8dd82ba7b87" />
+
 ---
 
 <a name="中文說明"></a>
@@ -197,3 +199,6 @@ python uvc-numpad.py
 | `uvc-ptz2.py` | 探測工具：列出支援的控制項與範圍 |
 | `pocket-ptz-obs.py` | OBS 原生快捷鍵腳本 |
 | `COMPANION.md` | Bitfocus Companion / Stream Deck 指南 |
+
+<img width="834" height="466" alt="螢幕擷取畫面 2026-06-26 130744" src="https://github.com/user-attachments/assets/49aff2ae-dec9-43d7-88c1-c22a05b807aa" />
+
