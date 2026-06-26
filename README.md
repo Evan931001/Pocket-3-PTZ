@@ -2,6 +2,14 @@
 
 **English** | [繁體中文](#中文說明)
 
+
+
+https://github.com/user-attachments/assets/bf871656-94cc-4690-b375-86fd611c2984
+
+
+
+
+
 Turn a DJI Osmo Pocket 3 into a remote-controllable PTZ camera over a single
 USB-C cable. It uses Windows DirectShow UVC camera control (the same path behind
 OBS's "Camera Control" sliders) to drive pan / tilt / zoom in real time —
