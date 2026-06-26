@@ -1,0 +1,12 @@
+# 執行時產生的設定（每台機器不同，不上傳）
+ptz-config.json
+uvc-gui-config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 測試 / 暫存
+_t.py
+_test_server.py
+*.zip
