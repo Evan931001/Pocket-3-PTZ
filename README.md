@@ -86,22 +86,6 @@ Python 3.12 folder; the bottom line must read `Python 3.12.x`). Assign keys unde
 - **ActiveTrack cannot be triggered over USB** (a DJI restriction). Tap the subject on the camera screen.
 - **Zoom is digital**, same as the camera itself.
 
-## 5. Publish to GitHub
-This folder already includes `.gitignore` (ignores each machine's `ptz-config.json`) and `LICENSE`.
-> Edit `LICENSE` and replace `[your name or GitHub handle]` first.
-
-1. On github.com → **New repository** (e.g. `pocket3-usb-ptz`), do **not** add a README, click Create.
-2. In this folder, run (swap in your URL):
-   ```
-   git init
-   git add .
-   git commit -m "Pocket 3 USB-C PTZ control"
-   git branch -M main
-   git remote add origin https://github.com/<you>/pocket3-usb-ptz.git
-   git push -u origin main
-   ```
-3. Later changes: `git add . && git commit -m "..." && git push`
-
 ## Files
 | File | Purpose |
 |------|---------|
@@ -182,23 +166,7 @@ python uvc-numpad.py
 
 ## 四、限制
 - **ActiveTrack 無法透過 USB 觸發**（DJI 限制），請在相機螢幕點主體。
-- **變焦為數位變焦**，與相機本身一致。
-
-## 五、上傳到 GitHub
-本資料夾已含 `.gitignore`（忽略各機器自己的 `ptz-config.json`）與 `LICENSE`。
-> 先把 `LICENSE` 裡的 `[your name or GitHub handle]` 改成你的名字。
-
-1. github.com → **New repository**（例如 `pocket3-usb-ptz`），**不要**勾 Add README，按 Create。
-2. 在這個資料夾執行（網址換成你的）：
-   ```
-   git init
-   git add .
-   git commit -m "Pocket 3 USB-C PTZ 控制工具"
-   git branch -M main
-   git remote add origin https://github.com/你的帳號/pocket3-usb-ptz.git
-   git push -u origin main
-   ```
-3. 之後改動：`git add . && git commit -m "說明" && git push`
+- **變焦為數位變焦**，與相機本身一致。`
 
 ## 檔案
 | 檔案 | 用途 |
