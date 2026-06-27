@@ -1,8 +1,4 @@
-# GitHub Copy / GitHub 開源文案
 
-Ready-to-paste text for publishing on GitHub. 直接複製貼上即可。
-
----
 
 ## Repository name / 名稱
 ```
